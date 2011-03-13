@@ -2,8 +2,8 @@
 
 Summary:	A library for consuming and serving OpenID identities
 Name:		rubygem-%{oname}
-Version:	2.1.7
-Release:	%mkrel 2
+Version:	2.1.8
+Release:	%mkrel 1
 License:	ASL 2.0
 Group:		Development/Ruby
 URL:		http://%{oname}.rubyforge.org/
