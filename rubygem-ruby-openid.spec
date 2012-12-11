@@ -69,3 +69,22 @@ rm -rf %{buildroot}
 %dir %{ruby_gemdir}/gems/%{rbname}-%{version}/test
 %{ruby_gemdir}/gems/%{rbname}-%{version}/test/*
 %doc %{ruby_gemdir}/doc/%{rbname}-%{version}
+
+
+%changelog
+* Sun Mar 13 2011 Per Øyvind Karlsen <peroyvind@mandriva.org> 2.1.8-1
++ Revision: 644330
+- regenerate spec with gem2rpm5
+- new release: 2.1.8
+
+* Tue Dec 07 2010 Oden Eriksson <oeriksson@mandriva.com> 2.1.7-2mdv2011.0
++ Revision: 614796
+- the mass rebuild of 2010.1 packages
+
+* Wed Feb 03 2010 Per Øyvind Karlsen <peroyvind@mandriva.org> 2.1.7-1mdv2010.1
++ Revision: 500503
+- import rubygem-ruby-openid
+
+
+* Mon Feb  3 2010 Per Øyvind Karlsen <peroyvind@mandriva.org> 2.1.7-1
+- initial release
