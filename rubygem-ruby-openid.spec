@@ -5,7 +5,7 @@ Summary:	A library for consuming and serving OpenID identities
 Name:		rubygem-%{rbname}
 
 Version:	2.1.8
-Release:	1
+Release:	2
 Group:		Development/Ruby
 License:	ASL 2.0
 URL:		http://github.com/openid/ruby-openid
