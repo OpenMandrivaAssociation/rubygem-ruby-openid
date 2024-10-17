@@ -8,7 +8,7 @@ Version:	2.1.8
 Release:	2
 Group:		Development/Ruby
 License:	ASL 2.0
-URL:		http://github.com/openid/ruby-openid
+URL:		https://github.com/openid/ruby-openid
 Source0:	http://rubygems.org/gems/%{rbname}-%{version}.gem
 BuildRequires:	rubygems 
 BuildArch:	noarch
